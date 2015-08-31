@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1441260978673
+Build-Jdk: 1.8.0_60
+Built-By: sixto
+Bundle-Description: Provides version of third parties artifacts to use i
+ n sixtoad platform projects
+Bundle-License: http://www.eclipse.org/legal/epl-v10.html
+Bundle-ManifestVersion: 2
+Bundle-Name: Codenvy CLI :: Preferences :: API
+Bundle-SymbolicName: com.github.sixtoad.gerrit.cli.preferences-api
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.codenvy.cli.preferences;version="0.0.1.SNAPSHOT"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-2.3.0.201405100607

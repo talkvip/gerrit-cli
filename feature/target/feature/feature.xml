@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.3.0" name="cli-feature">
+    <feature name="cli-feature" description="Codenvy CLI :: Karaf feature" version="3.12.1.SNAPSHOT">
+        <details>Provides the OSGi codenvy commands</details>
+        <bundle start-level="80">mvn:com.codenvy.cli/cli-command/3.12.1-SNAPSHOT</bundle>
+        <bundle start-level="80">mvn:com.codenvy.cli/cli-preferences-impl/3.12.1-SNAPSHOT</bundle>
+    </feature>
+</features>

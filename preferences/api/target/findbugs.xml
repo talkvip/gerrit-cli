@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BugCollection version='3.0.1' threshold='low' effort='max'><Error></Error><Project><SrcDir>/home/sixto/dev/workspaces/quality-project/java-cli/preferences/api/src/main/java</SrcDir><SrcDir>/home/sixto/dev/workspaces/quality-project/java-cli/preferences/api/target/generated-sources/annotations</SrcDir><SrcDir>/home/sixto/dev/workspaces/quality-project/java-cli/preferences/api/src/test/java</SrcDir></Project></BugCollection>
